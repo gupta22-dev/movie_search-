@@ -47,7 +47,7 @@ class _appState extends State<app> {
       backgroundColor: Colors.white,
       body: SafeArea(
         child: Container(
-          color: Colors.black,
+          color: Colors.white,
           child: Padding(
             padding: const EdgeInsets.all(8.0),
             child: Column(
