@@ -22,7 +22,7 @@ environment:
 
 dependencies:
   flutter:
-    sdk: flutter  
+    https://www.themoviedb.org/movie/sdk: flutter  
   http: ^0.12.1
 
   
