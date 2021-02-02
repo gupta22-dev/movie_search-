@@ -21,10 +21,13 @@ environment:
   sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
-  http: ^0.12.1
   flutter:
-    sdk: flutter
-    
+    sdk: flutter  
+  http: ^0.12.1
+
+  
+  
+
   flutter_screenutil: ^1.1.0
   
   smooth_star_rating: ^1.1.1
